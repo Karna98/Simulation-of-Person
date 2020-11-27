@@ -22,17 +22,17 @@ key| Action Name | Description
 
 |  |
 | :-----: |
-| ![](GIFs/Jump.gif) |
+| ![](GIFS/Jump.gif) |
 | *Character Jumps* |
-| ![](GIFs/Left.gif) |
+| ![](GIFS/Left.gif) |
 | *Character Moves Left* |
-| ![](GIFs/Duck.gif) |
+| ![](GIFS/Duck.gif) |
 | *Character Ducks* |
-| ![](GIFs/Right.gif) |
+| ![](GIFS/Right.gif) |
 | *Character Moves Right* |
-| ![](GIFs/Action_1.gif) |
+| ![](GIFS/Action_1.gif) |
 | *Character Performs Action_1* |
-| ![](GIFs/Action_2.gif) |
+| ![](GIFS/Action_2.gif) |
 | *Character Performs Action_2* |
-| ![](GIFs/Give_Him_Some_Rest.gif) |
+| ![](GIFS/Give_Him_Some_Rest.gif) |
 | *Character having some Rest* |
